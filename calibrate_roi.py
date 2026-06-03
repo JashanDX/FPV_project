@@ -84,3 +84,5 @@ import json
 with open("roi_config.json", "w") as f:
     json.dump({"ROI_X": x, "ROI_Y": y, "ROI_W": w, "ROI_H": h}, f, indent=2)
 print("[INFO] Coordinates saved → roi_config.json")
+
+# THANK YOU!
