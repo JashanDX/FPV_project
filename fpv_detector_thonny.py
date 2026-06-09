@@ -69,8 +69,8 @@ CONFIG = {
 
     # Telegram - get token from @BotFather on Telegram app
     "TELEGRAM_ENABLED"   : True,
-    "TELEGRAM_TOKEN"     : "8773281085:AAHYf36111w_dvx33nJ4sGq4bcGOlIp3O50",
-    "TELEGRAM_CHAT_ID"   : "8773281085",
+    "TELEGRAM_TOKEN"     : "Your telegram BOT token",
+    "TELEGRAM_CHAT_ID"   : "Chat ID",
 
     # Device info
     "DEVICE_ID"          : "FPV-UNIT-01",
