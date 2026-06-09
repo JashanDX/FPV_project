@@ -368,8 +368,8 @@ def send_telegram_alert(detection):
         print("[ALERT] Telegram not configured - skipping")
         return False
 
-    token   = CONFIG["8773281085:AAHYf36111w_dvx33nJ4sGq4bcGOlIp3O50"]
-    chat_id = CONFIG["8773281085"]
+    token   = CONFIG["Enter your BOT token"]
+    chat_id = CONFIG["Your chat ID"]
     ts      = datetime.now().strftime("%d %b %Y, %I:%M %p")
 
     msg = (
