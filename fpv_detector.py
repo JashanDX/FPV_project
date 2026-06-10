@@ -5,7 +5,7 @@
  Device  : Raspberry Pi 4 + Pi Camera Module v2
  Purpose : Capture FPV rapid test strip, detect C/T lines,
            log results, and alert veterinary department.
- Note: This is with the library module scipy.
+ Note    : This is with the library module scipy.
 =============================================================
 """
 
