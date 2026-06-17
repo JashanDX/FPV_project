@@ -1,4 +1,5 @@
-Note: Code for 32bit system is the thonny one. Rest are of 64bit.
+Note: Code for 32bit system is the fpv_detector_thonny.py
+Rest are of 64bit.
 opencv-python>=4.8.0
 numpy>=1.24.0
 scipy>=1.11.0
